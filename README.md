@@ -20,8 +20,11 @@ Muestra el resultado en pantalla.
 
 AmigoSecreto/
 │── index.html       # Página principal
+
 │── style.css        # Estilos de la página
+
 │── app.js           # Lógica de la aplicación
+
 │── assets/          # Imágenes e íconos
 
 
