@@ -19,6 +19,7 @@ Muestra el resultado en pantalla.
 **📂 Estructura del Proyecto**
 
 AmigoSecreto/
+
 │── index.html       # Página principal
 
 │── style.css        # Estilos de la página
